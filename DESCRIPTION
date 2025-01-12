@@ -1,0 +1,10 @@
+Package: dummyaddition
+Title: Dummy Package To Demonstrate Package Development
+Version: 0.0.0.9000
+Authors@R: 
+    person("Pavo", "Dive", , "pavodive@example.com", role = c("aut", "cre"))
+Description: Nothing really. It is a dummy package to demonstrate how to create packages with emacs ESS.
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
