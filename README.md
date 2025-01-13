@@ -11,5 +11,6 @@ To install it (are you sure you want to install it? 🤨) just use `devtools`:
 devtools::install_github("pavodive/dummyaddition")
 ```
 
-## Another Heading Here
-And another text here.
+## Check the blog!
+
+You can check the blog related to this repo [in English](https://pavodive.github.io/posts/writing-r-package-emacs/) or [en Español](https://pavodive.github.io/es/posts/writing-r-package-emacs/).
